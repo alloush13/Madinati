@@ -68,7 +68,7 @@ if(isset($_POST['submit']))
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Phone</h5>
-                                <p class="card-text">+966 406782105</p>
+                                <p class="card-text">+966 999999999</p>
 
                             </div>
                         </div>
@@ -101,7 +101,7 @@ if(isset($_POST['submit']))
         <h4 class="mt-3 text-center">هل لديك اقتراحات ؟</h4>
 
         <div class="form-floating  mt-4 border border-4  rounded">
-            <textarea class="form-control" name="feedback_text"placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+            <textarea class="form-control" name="feedback_text"placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100p1x"></textarea>
             <label for="floatingTextarea2">Feedback</label>
         </div>
         <div class="d-grid gap-2 col-6 mx-auto mt-2">
